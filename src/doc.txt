@@ -1,0 +1,2 @@
+change index.css to tailwind-pre-build.css from
+C:\work\drawing-samples\tailwind-samples\react-tailwind\src\styles\tailwind-pre-build.css
